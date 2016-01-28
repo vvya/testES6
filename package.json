@@ -1,7 +1,7 @@
 {
   "name": "testES6",
   "description": "测试ES6模式的项目",
-  "author": "vvya <914***693@qq.com>",
+  "author": "vvya <526***645@qq.com>",
   "version": "1.0.0",
   "scripts": {
     "start": "node www/development.js"
