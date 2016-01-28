@@ -1,0 +1,12 @@
+{
+  "name": "testES6",
+  "description": "测试ES6模式的项目",
+  "author": "vvya <914***693@qq.com>",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node www/development.js"
+  },
+  "dependencies": {
+    "thinkjs": "2.0.x"
+  }
+}
